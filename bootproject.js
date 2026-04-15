@@ -1,10 +1,12 @@
 // ** Preloader - from sayar
+/*
 const preloader = document.querySelector('#preloader');
 if (preloader) {
   window.addEventListener('load', () => {
     preloader.remove();
   });
 }
+*/
 
 // **glightbox - search glightbox npm - npmjs.com
 // lightbox options - class="glightbox" in header (html)
